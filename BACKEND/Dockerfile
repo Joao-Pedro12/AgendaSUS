@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 3001
 
-CMD ["node", "indedx.js"]
+CMD ["node", "index.js"]
