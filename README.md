@@ -10,7 +10,7 @@ Baseado no que nos foi proposto nós desenvolvemos um site com o tema voltado pa
     <img src="https://media.discordapp.net/attachments/1029175137368547336/1081050002907987998/image.png?width=960&height=435"alt="image" width="100%">
 </p>
 
-
+***Obs: MAIS DETALHES SOBRE ATUALIZAÇÕES E OBSERVAÇÕES SOBRE A DOCKERIZAÇÃO, ENCONTRAM-SE NO DESENVOLVIMENTO.MD***
 
 <h3> Requisitos para a construção do site:  </h3>
 
